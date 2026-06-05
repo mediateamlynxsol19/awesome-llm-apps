@@ -30,7 +30,8 @@
 <div align="center">
 
 # 🌟 Awesome LLM Apps
-
+- [NeuroNest](https://neuronest.cc/)
+- AI coding and agent development platform for building, managing, and optimizing AI-powered development workflows.
 <p><strong>100+ AI Agent & RAG apps you can actually run — clone, customize, ship.</strong><br/>
 AI Agents · Multi-agent Teams · MCP Agents · RAG · Voice Agents · Agent Skills · Fine-tuning</p>
 
