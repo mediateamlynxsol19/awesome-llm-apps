@@ -29,6 +29,13 @@
 
 <div align="center">
 
+# NeuroNest AI Agent Platform
+[![Awesome](https://neuronest.cc/)
+
+NeuroNest is an AI agent platform built to help developers simplify complex software development tasks. It supports coding, debugging, testing, security review, DevOps, and project planning through intelligent AI agents, giving developers and technical teams a faster way to build, manage, and improve software projects
+
+>contribition welcome -[open PR](https://github.com/NETGVai/NeuroNest)
+
 # 🌟 Awesome LLM Apps
 - [NeuroNest](https://neuronest.cc/)
 - AI coding and agent development platform for building, managing, and optimizing AI-powered development workflows.
