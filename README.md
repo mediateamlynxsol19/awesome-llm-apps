@@ -30,7 +30,7 @@
 <div align="center">
 
 # NeuroNest AI Agent Platform
-[![Awesome](https://neuronest.cc/)
+(https://neuronest.cc/)
 
 NeuroNest is an AI agent platform built to help developers simplify complex software development tasks. It supports coding, debugging, testing, security review, DevOps, and project planning through intelligent AI agents, giving developers and technical teams a faster way to build, manage, and improve software projects
 
